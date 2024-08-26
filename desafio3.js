@@ -28,3 +28,4 @@ let heroi2 = new heroi('Anita', 26, 'mago');
 heroi2.atacar();
 
 //testando a autenticação
+// testando uma segunda vez
